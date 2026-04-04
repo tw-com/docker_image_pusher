@@ -1,2 +1,3 @@
 searxng/searxng:latest
 valkey/valkey:8-alpine
+huginn/huginn
