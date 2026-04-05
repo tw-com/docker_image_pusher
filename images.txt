@@ -1,3 +1,4 @@
 searxng/searxng:latest
 valkey/valkey:8-alpine
 huginn/huginn
+ubuntu:18.04
