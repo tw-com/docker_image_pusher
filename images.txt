@@ -3,4 +3,4 @@ valkey/valkey:8-alpine
 huginn/huginn
 ubuntu:18.04
 mysql:5.7.34
-redis:stable-alpine
+redis:stable
