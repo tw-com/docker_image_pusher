@@ -5,3 +5,4 @@ ubuntu:18.04
 mysql:5.7.34
 redis:8.4
 hengyunabc/arthas:latest
+mysql:8.4.10
